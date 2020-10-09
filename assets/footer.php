@@ -76,6 +76,8 @@
         <!-- validator js -->
         <script src="js/validator.js"></script>
 
+        <script src="js/notify.min.js"></script>
+
         <!-- custom scripts -->
         <script src="js/scripts.js"></script>
 
