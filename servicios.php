@@ -4,8 +4,9 @@
 
     <!--API Mensajerías-->
     <div class="WA reboteIn"><i class="icono-WA fa fa-whatsapp" aria-hidden="true"></i></div>
-    <div class="MSS reboteIn"><span class="icono-messenger"></span></div>
     <!--API Mensajerías-->
+
+    <span class="ir-arriba fa fa-arrow-up" aria-hidden="true"></span>
        
     <!----------Menú de navegación --------->
 	<nav class="navbar navbar-blog navbar-expand-lg">
@@ -28,7 +29,7 @@
 			        <li class="nav-item"><a class="nav-link" href="index.php">Nosotros</a></li>
 			        <li class="nav-item"><a class="nav-link active" href="servicios.php">Servicios</a></li>
                     <li class="nav-item"><a class="nav-link" href="galeria.php">Galería</a></li>
-			        <li class="nav-item"><a class="nav-link" href="blog.php">Noticias</a></li>
+			        <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
 			        <li class="nav-item"><a class="nav-link" href="#contact-info">Contacto</a></li>
 			    </ul>
 			</div>

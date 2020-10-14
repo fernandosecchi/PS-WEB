@@ -1,7 +1,8 @@
-<!--API Mensajerías-->
-<div class="WA reboteIn"><i class="icono-WA fa fa-whatsapp" aria-hidden="true"></i></div>
-    <div class="MSS reboteIn"><span class="icono-messenger"></span></div>
     <!--API Mensajerías-->
+    <a href="https://api.whatsapp.com/send?phone=593999106298&text=Hola,%20Consultoría%20de%20Ingeniería%20y%20Ambiente" target="_blank"><div class="WA reboteIn"><i class="icono-WA fa fa-whatsapp" aria-hidden="true"></i></div></a>
+	<!--API Mensajerías-->
+	
+	<span class="ir-arriba fa fa-arrow-up" aria-hidden="true"></span>
        
     <!----------Menú de navegación --------->
 	<nav class="navbar navbar-expand-lg">
@@ -21,10 +22,10 @@
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			    <ul class="navbar-nav ml-auto">
 			        <li class="nav-item"><a class="nav-link active" href="#">Inicio</a></li>
-			        <li class="nav-item"><a class="nav-link" href="#nosotros">Nosotros</a></li>
+			        <li class="nav-item"><a class="nav-link" data-scroll-nav="1" href="#nosotros">Nosotros</a></li>
 			        <li class="nav-item"><a class="nav-link" href="servicios.php">Servicios</a></li>
                     <li class="nav-item"><a class="nav-link" href="galeria.php">Galería</a></li>
-			        <li class="nav-item"><a class="nav-link" href="blog.php">Noticias</a></li>
+			        <li class="nav-item"><a class="nav-link" href="blog.php">Blog</a></li>
 			        <li class="nav-item"><a class="nav-link" href="#contact-info">Contacto</a></li>
 			    </ul>
 			</div>

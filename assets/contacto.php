@@ -37,9 +37,6 @@
 
                         <div class="social">
                             <a href="#0" class="icon">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                            <a href="#0" class="icon">
                                 <i class="fab fa-twitter"></i>
                             </a>
                             <a href="#0" class="icon">
@@ -53,7 +50,7 @@
                         <div class="item">
                             <div class="cont mt-5 ml-0">
                                 <p>O dejanos un mensaje a través de nuestro formulario de contacto</p>
-                                <a  href="#contact" class="butn butn-bg boton-msg"><span>Dejar mensaje</span></a>
+                                <a  href="#contact" class="butn butn-bg boton-msg mt-2"><span>Dejar mensaje</span></a>
                             </div>
                         </div>
                     </div>

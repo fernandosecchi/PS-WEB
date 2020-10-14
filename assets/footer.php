@@ -11,9 +11,6 @@
                 
                 <div class="social">
                     <a href="#0" class="icon">
-                        <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a href="#0" class="icon">
                         <i class="fab fa-twitter"></i>
                     </a>
                     <a href="#0" class="icon">

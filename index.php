@@ -18,11 +18,11 @@
     				<h4>Consultor</h4>
                     <h1>Ingeniería y ambiente</h1>
                     <p>"Por el desarrollo sustentable de las áreas marino costeras"</p>
-                    <a href="#0" class="butn butn-light mt-30">
+                    <a href="doc/CV-PABLO-SUAREZ-INGENIERIA.pdf" target="_blank" class="butn butn-light mt-30">
                         <span>Descargar CV</span>
                     </a>
                     <a href="#contact-info" class="butn butn-bg mt-30">
-                        <span>Contáctame</span>
+                        <span>Contáctanos</span>
                     </a>
     			</div>
     		</div>
@@ -32,16 +32,15 @@
 
 
     <!-------Sección Nosotros---------->
-    <section class="nosotros section-head" id="nosotros">
+    <section class="nosotros section-head" id="nosotros" data-scroll-index="1">
         <div class="container mt-5">
             <div class="row mt-5">
                 <div class="intro offset-lg-1 col-lg-10 text-center mb-80">
-                    <h3 class="title-PS">Pablo Suárez</h3><br>
-                    <h6>Ingeniero Civil y Consultor ambiental.</h6>
-                    <p>Una amplia carrera y años de experiencia avalan el servicio como consultor en Ingeniería y ambiente. Contando con un grupo de profesionales de estudios de post-grado. Este equipo multidisciplinario se especializa en Estudios de Ingeniería Básica para Diseño, Ingeniería de Costas-Obras Portuarias, e Ingeniería y Gestión Ambiental. Como ingenieros y científicos tenemos la responsabilidad y el desafío de proveer soluciones que sean duraderas, sustentables, económicas y que trabajen con simplicidad y efectivamente. </p>
+                    <h3 class="title-PS">Equipo de trabajo</h3><br>
+                    <h6>Consultoría en Ingeniería y Ambiente</h6>
+                    <p>Encabezado por el Ingeniero civil y consultor ambiental Pablo Suárez. Una amplia carrera y años de experiencia avalan el servicio como consultor en Ingeniería y ambiente. Contando con un grupo de profesionales de estudios de post-grado. Este equipo multidisciplinario se especializa en Estudios de Ingeniería Básica para Diseño, Ingeniería de Costas-Obras Portuarias, e Ingeniería y Gestión Ambiental. Como ingenieros y científicos tenemos la responsabilidad y el desafío de proveer soluciones que sean duraderas, sustentables, económicas y que trabajen con simplicidad y efectivamente. </p>
                     <p>Nuestra principal prioridad es la de proveer servicios de consultoría de alta calidad profesional, de manera eficiente y proactiva, con altos estándares de calidad y seguridad ocupacional.</p>
-                    <p>Los proyectos ejecutados por nuestro equipo están dirigidos por profesionales de alto nivel de experiencia en el campo de la Ingeniería y Gestión Ambiental, empleando equipos y tecnología de punta, que facilitan encontrar soluciones óptimas y rentables a problemas de alta complejidad. </p>
-                    <p>Nuestros clientes abarcan el Sector Público y Privado, e incluye las Áreas de Costas, Puertos dragados, Industria, Petróleo, Minas, Vías de Comunicación, Hidráulica Fluvial, Hidráulica de Estuarios, Energía (Hidroeléctricas, Termoeléctricas, Energías Renovables), Infraestructura Sanitaria, Edificaciones, Urbanismo, y otras.</p>
+                    <p>Nuestros clientes abarcan el Sector Público y Privado, e incluye <strong>Obras portuarias</strong>, <strong>Dragados</strong>, <strong>Ingeniería de Costas</strong>, <strong>Hidráulica</strong> y obtención de <strong>Permisos Ambientales</strong> para la construcción y operación de proyectos de alta complejidad.</p>
                 </div>
             </div>
         </div>
@@ -49,14 +48,15 @@
     <!-------Fin Sección Nosotros---------->
 
 
-    <!--------Contenido 1 Proyectos----------------->
-    <section class="hero section-padding">
+    <!--------Contenido 1 Proyectos icónicos----------------->
+    <section class="hero section-padding section-head">
         <div class="container">
             <div class="row">
                     
                 <div class="intro offset-lg-1 col-lg-10 text-center mb-80">
                     <h3>Investigación, desarrollo e innovación.</h3>
-                    <h4>Nos caracterizan..</h4>
+                    <h4>Nos caracterizan.</h4>
+                    <h6 class="mb-3">Proyectos icónicos</h6>
                     <p>En todas nuestras actividades de Servicios de Consultoría, nuestro equipo de profesionales busca en función de la Exploración, desarrollar de manera proactiva, nuevas e innovadoras metodologías de investigación.</p>
                 </div>
 
@@ -99,7 +99,7 @@
             </div>
         </div>
     </section>
-    <!------Fin contenido 1 Proyectos----->
+    <!------Fin contenido 1 Proyectos icónicos Fin----->
 
 
     <!----- Sección box Equipos ------->
@@ -173,12 +173,12 @@
         <div class="container">
             <div class="row mt-5">
                 <div class="section-head text-center col-sm-12">
-                    <h6 class="serv">Estudios ambientales y sociales</h6>
+                    <h6 class="serv">Estudios ambientales y Modelamientos Matemáticos</h6>
                 </div>
 
                 <div class="col-lg-6">
                     <div class="item mb-md50 box-white">
-                        <span class="icon icon-basic-book-pencil mt-2"></span>
+                        <span class="icon icon-basic-book-pencil"></span>
                         <h6 class="mt-1">Estudios ambientales</h6>
                         <p>Inscripto en el <strong>Registro de Consultores Ambientales</strong> lo que nos faculta a realizar estudios ambientales con el mayor grado de <br> complejidad.
                         </p>
@@ -188,8 +188,8 @@
                 <div class="col-lg-6">
                     <div class="item mb-md50 box-white">
                         <span class="icon icon-basic-pencil-ruler"></span>
-                        <h6>Estudios sociales</h6>
-                        <p>El campo de los <strong>Estudios Sociales</strong> es multidisciplinario y se define en términos de la adaptación de las Ciencias Sociales para propósitos de levantamiento de información e interacción con los actores sociales.</p>
+                        <h6>Modelamientos Matemáticos.</h6>
+                        <p>Se emplea herramientas informáticas y de simulación para establecer las condiciones <br> actuales y emular nuevas condiciones.</p>
                     </div>
                 </div>
 
@@ -476,43 +476,89 @@
     <!-----Fin Sección noticias----->
 
 
-    <!----Nuestros Clientes---->
-    <div class="clients text-center pt-50 pb-50 mb-3">
-        <div class="container">
-            <div class="row">
 
-                <div class="section-head text-center col-sm-12">
-                    <h4>Clientes</h4>
-                    <h6>Estos son algunos de los clientes que confiaron en nosotros</h6>
+    <!--Clientes-->
+    <section class="testimonials carousel-single section-padding bg-img bg-fixed bg-light">
+        <div class="container">
+
+            <div class="clients text-center">
+               <div class="container">
+                   <div class="row">
+
+                       <div class="section-head text-center col-sm-12">
+                           <h4>Clientes</h4>
+                           <h6>Estos son algunos de los clientes que confiaron en nosotros</h6>
+                       </div>
+                    </div>
                 </div>
+            </div>
+
+            <div class="row">
                     
-                <div class="owl-carousel owl-theme col-sm-12">
-                    <a href="#0">
-                        <img src="img/clients-logo/1.png" alt="">
-                    </a>
-                    <a href="#0">
-                        <img src="img/clients-logo/1.png" alt="">
-                    </a>
-                    <a href="#0">
-                        <img src="img/clients-logo/1.png" alt="">
-                    </a>
-                    <a href="#0">
-                        <img src="img/clients-logo/1.png" alt="">
-                    </a>
-                    <a href="#0">
-                        <img src="img/clients-logo/1.png" alt="">
-                    </a>
-                    <a href="#0">
-                        <img src="img/clients-logo/1.png" alt="">
-                    </a>
+                <div class="offset-lg-1 col-lg-10">
+
+                    <div class="owl-carousel owl-theme text-center">
+                        <div class="item">
+                            <div class="info">
+                                <h6>ASINGESA/FERTISA <span>Año 2020</span></h6>
+                            </div>
+                            <p>Fiscalización de la obra de Dragado del Estero del Muerto en el delantal del muelle de FERTISA.</p>
+                        </div>
+                        <div class="item">
+                            <div class="info">
+                                <h6>H&H <span>Año 2020</span></h6>
+                            </div>
+                            <p>Diseños definitivos para el emisario Subfluvial de la ptar en el área de esclusas, para el proyecto de constrcucción de infraestructura y montaje de tuberías para el emisario subfluvial de AASS provenientes de la planta de tratamiento las esclusas.</p>
+                        </div>
+                        <div class="item">
+                            <div class="info">
+                                <h6>CONTECON <span>Año 2019</span></h6>
+                            </div>
+                            <p>Fiscalización del dragado de los muelles 1 al 1C y del 2 al 6 del puerto Libertador Simón Bolívar.</p>
+                        </div>
+                        <div class="item">
+                            <div class="info">
+                                <h6>TPM <span>Año 2017</span></h6>
+                            </div>
+                            <p>Fiscalización obras de dragado de la fase 1A (Dragado de los 4 atracaderos de los 2 muelles internacionales, Área de Reviro y tramo del canal de acceso del puerto de Manta).</p>
+                        </div>
+                        <div class="item">
+                            <div class="info">
+                                <h6>MTI/CONSULTOLA <span>Año 2020</span></h6>
+                            </div>
+                            <p>Configuración náutica para el muelle flotante y protección costera de la base del acantilado para los estudios y diseños para la reparacion del muelle flotante y protección costerade la base del acantilado en el recinto subida alta, Parroquia Puná.</p>
+                        </div>
+                        <div class="item">
+                            <div class="info">
+                                <h6>YILPORT <span>Año 2020</span></h6>
+                            </div>
+                            <p>Recolección de información oceanográfica para la ejecución del modelo matemático.</p>
+                        </div>
+                        <div class="item">
+                            <div class="info">
+                                <h6>PRA <span>Año 2020</span></h6>
+                            </div>
+                            <p>Estudios de Batimetría y Estudios ambientales del proyecto Estudios y diseños definitivos de las instalaciones para subcomando de guardacostas su (SUBSUR) en el predio de APPB (APPB) adyacente al Muelle Espigon.</p>
+                        </div>
+                        <div class="item">
+                            <div class="info">
+                                <h6>MTI/SOFRATESA  <span>Año 2019</span></h6>
+                            </div>
+                            <p>Levantamiento Topobatimétrico y velocidad junto a futura estación de aerovía E05, en Duran.</p>
+                        </div>
+                        <div class="item">
+                            <div class="info">
+                                <h6>MTI/NAPORTEC  <span>Año 2020</span></h6>
+                            </div>
+                            <p>Inspección submarina para identificar objetos en el fondo marino en el área ubicada a la altura del muelle norte del terminal portuario de Naportec.</p>
+                        </div>
+                    </div>
                 </div>
 
             </div>
         </div>
-    </div>
-    <!------Fin Nuestros clientes----->
-
-
+    </section>
+    <!--Clientes Fin-->
 
 
     <?php include_once('assets/contacto.php')?>

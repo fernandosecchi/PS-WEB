@@ -230,6 +230,36 @@ $(document).ready(function() {
 
 });
 
+//Acciones de los botones de proyectos
+$("#boton").click(function(){
+
+    let valor = $("#boton").val();
+    if(valor == "Leer menos"){
+        $("#boton").attr("value","Leer mas");
+    }else{
+        $("#boton").attr("value","Leer menos");
+    }
+});
+$("#boton2").click(function(){
+
+    let valor = $("#boton2").val();
+    if(valor == "Leer menos"){
+        $("#boton2").attr("value","Leer mas");
+    }else{
+        $("#boton2").attr("value","Leer menos");
+    }
+});
+$("#boton3").click(function(){
+
+    let valor = $("#boton3").val();
+    if(valor == "Leer menos"){
+        $("#boton3").attr("value","Leer mas");
+    }else{
+        $("#boton3").attr("value","Leer menos");
+    }
+});
+
+
 
 
 
