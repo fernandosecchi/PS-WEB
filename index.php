@@ -62,8 +62,8 @@
 
                 <div class="col-lg-4">
                     <div class="item text-center mb-md50 p-3">
-                        <span class="icon icon-basic-book-pen"></span>
-                        <h5>Muestreador de Pistón con vibrosondeo neumático</h5>
+                        <img src="img/caso1.jpg" alt="" class="img-iconicos">
+                        <h5 class="mt-3">Muestreador de Pistón con vibrosondeo neumático</h5>
                         <p>Proyecto: <em>“Estudio de Prefactibilidad, Factibilidad y de Diseño del Canal de Acceso a los Muelles de la Terminal Marítima Simón Bolívar, para determinar el Dragado a la Profundidad de 11 m. respecto al MLWS”.</em></p>
                         <input class="btn btn-sm btn-info mb-2 mt-1" id="boton" type="button" value="Leer mas " data-toggle="collapse" href="#collapse-info" role="button" aria-expanded="false" aria-controls="collapse-info"></input>
                         <div class="collapse" id="collapse-info">
@@ -74,8 +74,8 @@
 
                 <div class="col-lg-4">
                     <div class="item item2 text-center mb-md50 p-3">
-                        <span class="icon icon-basic-cards-diamonds"></span>
-                        <h5>Extracción de roca</h5>
+                        <img src="img/caso2.jpg" alt="" class="img-iconicos">
+                        <h5 class="mt-3">Extracción de roca</h5>
                         <p>Proyecto: <em>“Actualización del Estudio de Prefactibilidad, Factibilidad y de Diseño del Canal de Acceso a los Muelles de la Terminal Marítima Simón Bolívar, para determinar el Dragado a la Profundidad de 11 m. respecto al MLWS".</em></p>
                         <input class="btn btn-sm btn-info mb-2 mt-2" id="boton2" type="button" value="Leer mas " data-toggle="collapse" href="#collapse-info2" role="button" aria-expanded="false" aria-controls="collapse-info2"></input>
                         <div class="collapse" id="collapse-info2">
@@ -86,8 +86,8 @@
 
                 <div class="col-lg-4">
                     <div class="item item3 text-center p-3">
-                        <span class="icon icon-basic-pencil-ruler"></span>
-                        <h5>Extracción de Muestra de Sedimentos:</h5>
+                        <img src="img/caso3.jpg" alt="" class="img-iconicos">
+                        <h5 class="mt-3">Extracción de Muestra de Sedimentos</h5>
                         <p>Se construyó un equipo de toma de muestras de sedimentos por gravedad empleando buzos capacitados en áreas de tráfico marítimo, este dispositivo tiene un alto grado de recuperación y ha sido probado en todos los Puertos de Ecuador.</p>
                         <input class="btn btn-sm mb-1" id="boton3" type="button" value="Leer mas " data-toggle="collapse" href="#collapse-info3" role="button" aria-expanded="false" aria-controls="collapse-info3"></input>
                         <div class="collapse" id="collapse-info3">
@@ -107,7 +107,34 @@
         <div class="container-fluid">
             <div class="row">
                     
-                <div class="col-lg-6 bg-img half-img bgimg-height" data-background="img/equipo.jpg"></div>
+                <div class="col-lg-6 bg-img half-img bgimg-height">
+                    <div id="carouselControls" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+
+                          <div class="carousel-item active">
+                            <img class="d-block w-100" src="img/equipos.png" alt="">
+                          </div>
+
+                          <div class="carousel-item">
+                            <img class="d-block w-100" src="img/equipos2.png" alt="">
+                          </div>
+
+                          <div class="carousel-item">
+                            <img class="d-block w-100" src="img/equipos3.png" alt="">
+                          </div>
+
+                          <div class="carousel-item">
+                            <img class="d-block w-100" src="img/equipos4.png" alt="">
+                          </div>
+
+                          <div class="carousel-item">
+                            <img class="d-block w-100" src="img/equipos5.png" alt="">
+                          </div>
+
+                        </div>
+                    </div>
+
+                </div>
 
                 <div class="col-lg-6 half-content bg-gray">
                     <div class="box-white">
@@ -127,7 +154,6 @@
                             <p><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Ecosondas.</p>
                             <p><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Sondas de velocidad (SVP).</p>
                             <p><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Caudalímetro/Flujómetro.</p>
-                            <p><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Draga Van Veen.</p>
                             <p><i class="fa fa-long-arrow-right" aria-hidden="true"></i> Valetas.</p>
                         </div>
 
@@ -148,21 +174,49 @@
                 <div class="section-head text-center col-sm-12">
                     <h4>Servicios</h4>
                     <h6 class="serv">Servicios de ingeniería</h6>
+                    <p>Comprende la Ingeniería básica de diseño y la Ingeniería de diseño.</p>
                 </div>
                     
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-4 col-md-4">
                     <div class="item mb-md50 box-white">
-                        <span class="icon icon-basic-book-pencil"></span>
-                        <h6>Ingeniería básica de diseño.</h6>
-                        <p>La Ingeniería Básica de Diseño, comprende los Estudios que permiten levantar información para la toma de decisiones o el <br> posterior diseño.</p>
+                        <span class="icon icon-basic-book"></span>
+                        <h6>Estudios Náuticos</h6>
+                        
                     </div>
                 </div>
 
-                <div class="col-lg-6 col-md-6 bord">
+                <div class="col-lg-4 col-md-4 bord">
                     <div class="item mb-md50 box-white">
                         <span class="icon icon-basic-pencil-ruler"></span>
-                        <h6>Ingeniería de diseño</h6>
-                        <p>La Ingeniería de Diseño, permite llevar a niveles de factibilidad y diseño definitivo a los proyectos de Ingeniería, obteniendo la información necesaria para su implementación.</p>
+                        <h6>Dragado</h6>
+                        
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 bord">
+                    <div class="item mb-md50 box-white">
+                        <span class="icon-search"></span>
+                        <h6>Fiscalizaciones</h6>           
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 bord mt-2">
+                    <div class="item mb-md50 box-white">
+                        <span class="icon icon-basic-anchor"></span>
+                        <h6>Batimetrías</h6>           
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 bord mt-2">
+                    <div class="item mb-md50 box-white">
+                        <span class="icon-clipboard"></span>
+                        <h6>Topografías</h6>           
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-4 bord mt-2">
+                    <div class="item mb-md50 box-white">
+                        <span class="icon-basket"></span>
+                        <h6>Obras portuarias</h6>           
                     </div>
                 </div>
 
@@ -187,7 +241,7 @@
 
                 <div class="col-lg-6">
                     <div class="item mb-md50 box-white">
-                        <span class="icon icon-basic-pencil-ruler"></span>
+                        <span class="icon icon-basic-calculator"></span>
                         <h6>Modelamientos Matemáticos.</h6>
                         <p>Se emplea herramientas informáticas y de simulación para establecer las condiciones <br> actuales y emular nuevas condiciones.</p>
                     </div>
@@ -414,17 +468,17 @@
                     <div class="item text-center mb-md50">
                         <div class="post-img">
                             <div class="img">
-                                <img src="img/galería/Noticia1.jpg" alt="">
+                                <img src="img/buques-septiembre.jpg" alt="">
                             </div>
                         </div>
                         <div class="cont">
                             <div class="info">
                                 <a href="#0">Publicado</a>
-                                <a href="#0">06 Agosto 2019</a>
+                                <a href="#0">08 Octubre del 2020</a>
                                 <a href="#0"></a>
                             </div>
-                            <h6><a href="#0">Título de la Noticia</a></h6>
-                            <p>Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever</p>
+                            <h6><a href="http://www.puertodeguayaquil.gob.ec/las-terminales-publicas-y-privadas-del-puerto-de-guayaquil-reciben-buques-de-forma-normal/" target="_blank">Las Terminales públicas y privadas del puerto de Guayaquil reciben buques de forma normal</a></h6>
+                            <p>Autoridad Portuaria de Guayaquil (APG) a través de su dirección de Control de Tráfico Marítimo informa que, del 01 al 30 de septiembre de 2020 ingresaron 197 buques al puerto de Guayaquil.</p>
                         </div>
                     </div>
                 </div>
@@ -433,17 +487,17 @@
                     <div class="item text-center mb-md50">
                         <div class="post-img">
                             <div class="img">
-                                <img src="img/galería/Noticia2.JPG" alt="">
+                                <img src="img/Autoridades-firman-contrato-de-inversion-.jpg" alt="">
                             </div>
                         </div>
                         <div class="cont">
                             <div class="info">
                                 <a href="#0">Publicado</a>
-                                <a href="#0">20 Octubre 2019</a>
+                                <a href="#0">02 Octubre 2020</a>
                                 <a href="#0"></a>
                             </div>
-                            <h6><a href="#0">Título de la noticia</a></h6>
-                            <p>Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever</p>
+                            <h6><a href="http://www.puertodeguayaquil.gob.ec/ministro-de-transporte-y-obras-publicas-firmo-convenio-para-potenciacion-del-puerto-maritimo-de-guayaquil/">Ministro de Transporte y Obras Públicas firmó convenio para potenciación del puerto marítimo de Guayaquil</a></h6>
+                            <p>Este viernes 02 de octubre de 2020, en el Muelle A1, del Puerto Marítimo de Guayaquil Libertador Simón Bolívar, el Ministro de Transporte y Obras Públicas, Gabriel Martínez y el gerente General de Contecon Guayaquil S.A, José Antonio Contreras, firmaron el contrato de inversión para potenciar la terminal portuaria por un monto que supera los USD 18.3 millones, en lo que corresponde al año 2020.</p>
                         </div>
                     </div>
                 </div>
@@ -452,23 +506,19 @@
                     <div class="item text-center">
                         <div class="post-img">
                             <div class="img">
-                                <img src="img/galería/Noticia3.JPG" alt="">
+                                <img src="img/Buques-puerto-de-Guayaquil.jpg" alt="">
                             </div>
                         </div>
                         <div class="cont">
                             <div class="info">
                                 <a href="#0">Publicado</a>
-                                <a href="#0">08 Febrero 2020</a>
+                                <a href="#0">03 Septiembre 2020</a>
                                 <a href="#0"></a>
                             </div>
-                            <h6><a href="#0">Título de la noticia</a></h6>
-                            <p>Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the dummy text ever</p>
+                            <h6><a href="http://www.puertodeguayaquil.gob.ec/el-flujo-maritimo-de-naves-se-desarrolla-con-total-normalidad-en-los-puertos-de-guayaquil/">El flujo marítimo de naves se desarrolla con total normalidad en los puertos de Guayaquil</a></h6>
+                            <p>La dirección de Control de Tráfico Marítimo de la Autoridad Portuaria de Guayaquil (APG) informa que el ingreso de embarcaciones, pieza fundamental del comercio nacional e internacional en el proceso de trasporte de carga, se desarrolla con normalidad bajo las medidas sanitarias dispuestas por el Gobierno Nacional para contener la pandemia del Covid-19.</p>
                         </div>
                     </div>
-                </div>
-                
-                <div class="section-head text-center col-sm-12 mt-5">
-                    <h6><a href="blog.php" class="butn butn-bg mt-30 mt-5"><span>Ver más</span></a></h6>
                 </div>
             </div>
         </div>

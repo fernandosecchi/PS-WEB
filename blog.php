@@ -37,7 +37,7 @@
 	</nav>
     <!------------- Fin menú de navegación---------->
 
-        <section class="blogs section-padding" id="blog">
+        <section class="blogs section-padding mt-5" id="blog">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6">

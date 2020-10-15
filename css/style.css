@@ -602,26 +602,10 @@ section.nosotros{
   width: 90%;
   margin: auto;
 }
-.hero .item .icon {
-  width: 80px;
-  height: 80px;
-  line-height: 90px;
-  border: 1px solid #eee;
-  border-radius: 50%;
-  font-size: 40px;
-  color: #2AAFC0;
-  margin-bottom: 40px;
-  position: relative;
+.hero .item .img-iconicos {
+  height: 200px;
 }
-.hero .item .icon:after {
-  content: '';
-  width: 20px;
-  height: 1px;
-  background: #2AAFC0;
-  position: absolute;
-  left: calc(50% - 10px);
-  bottom: -20px;
-}
+
 .hero .item h5 {
   margin-bottom: 15px;
   font-weight: 500;
@@ -675,7 +659,9 @@ section.nosotros{
 /* ----------------Hero Fin-------------------*/
 
 /* --------------------Seccion Box--------------------------*/
-
+.section-box span.carousel-control-prev-icon{
+  color: #037e8c;
+}
 .section-box .half-img {
   background-position: 50% 50%;
 }
@@ -829,9 +815,6 @@ h6.titulo-servicios, h6.titulo-servicios strong{
 
 
 /* ------------Sección Servicios---------------*/
-.section-head{
-  margin-bottom: 40px;
-}
 .services .item {
   text-align: center;
   padding: 20px 15px;
@@ -848,6 +831,24 @@ h6.titulo-servicios, h6.titulo-servicios strong{
 
 .services img.img-services{
   max-height: 250px;
+}
+.icon-search:before {
+  content: "\e007";
+  font-family: 'icomoon';
+  font-size: 40px;
+  color: #7ec544;
+}
+.icon-clipboard:before {
+  content: "\e008";
+  font-family: 'icomoon';
+  font-size: 40px;
+  color: #7ec544;
+}
+.icon-basket:before {
+  content: "\e027";
+  font-family: 'icomoon';
+  font-size: 40px;
+  color: #7ec544;
 }
 /* ----------------Fin servicios-------------*/
 

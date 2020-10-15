@@ -42,7 +42,7 @@
 
             <div class="row">
                 <div class="section-head text-center col-sm-12">
-                    <h4>Servicios</h4>
+                    <h4 class="mt-5">Servicios</h4>
                     <h6>Servicios de Ingeniería básica de diseños</h6>
                     <p class="mt-2 mb-2">La Ingeniería Básica de Diseño, comprende los Estudios que permiten levantar información para la toma de decisiones o el posterior diseño</p>
                 </div>
