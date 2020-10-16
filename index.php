@@ -1,7 +1,7 @@
 <?php include_once('assets/head.php')?>
 
     
-    <?php include_once('assets/loading.php')?>
+    <?php // include_once('assets/loading.php')?>
     <?php include_once('assets/nav.php')?>
 
 

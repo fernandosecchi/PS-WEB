@@ -1,6 +1,6 @@
 <?php include_once('assets/head.php')?>
 
-<?php include_once('assets/loading.php')?>
+<?php // include_once('assets/loading.php')?>
 
     <!--API Mensajerías-->
     <div class="WA reboteIn"><i class="icono-WA fa fa-whatsapp" aria-hidden="true"></i></div>
